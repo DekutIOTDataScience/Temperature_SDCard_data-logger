@@ -1,0 +1,1 @@
+make sure that at that the spi frequrncy used is either at 100kHZ or between 2mHZ to 40mHZ for the communication to happen. 
